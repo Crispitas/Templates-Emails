@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8003F4B9-F289-4766-A138-7CB8F4570ADA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD136D9B-CDC8-41DA-A840-90FC97760BF8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63F6254F-CE28-46C5-B354-41AC6352C44A",
+    "height": 40,
+    "width": 392,
+    "x": 0,
+    "y": 94
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Element/Card-Table Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED032830-8B98-417D-A24C-991DA434CDFD",
+      "overrideName": "D4A1A9C0-592A-4FAE-890C-97EAC942A897_stringValue",
+      "value": "Vigencia"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D5C12F9-20AC-41C5-AF73-FBE9164B4101",
+      "overrideName": "273406C6-5CA9-4CF8-9B28-B575838853C4_stringValue",
+      "value": "16-06-2019"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E556C35-311C-4317-BB3F-E1BC6A43E96C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0ACD3216-7649-4753-8DEC-C2092FC033BE",
+  "verticalSpacing": 0
+}

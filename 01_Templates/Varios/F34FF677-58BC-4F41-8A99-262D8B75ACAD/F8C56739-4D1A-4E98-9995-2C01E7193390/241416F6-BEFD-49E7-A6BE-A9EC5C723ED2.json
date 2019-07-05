@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "241416F6-BEFD-49E7-A6BE-A9EC5C723ED2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "441EFA8A-F186-4260-A585-756B9910C82B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3603EE5F-AACC-448E-A831-36608510D7A7",
+    "height": 40,
+    "width": 392,
+    "x": 0,
+    "y": 54
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Element/Card-Table Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EAFFA41C-D775-4065-9117-2F9CC31498D6",
+      "overrideName": "D4A1A9C0-592A-4FAE-890C-97EAC942A897_stringValue",
+      "value": "Monto a recibir"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "647ADEDA-1C2F-4D79-8D1D-970BD60537C9",
+      "overrideName": "273406C6-5CA9-4CF8-9B28-B575838853C4_stringValue",
+      "value": "USD 4.975*"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3A8771E-CD5C-4155-A2FB-359A11B3F92E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0ACD3216-7649-4753-8DEC-C2092FC033BE",
+  "verticalSpacing": 0
+}

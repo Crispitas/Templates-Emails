@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BDF32DA9-A8FB-4817-B737-EB037E9F472E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 64,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BAD026B1-2E9A-4ACF-B0A8-AF93AE789347"
+    },
+    {
+      "class": "shapePath",
+      "id": "4EBD1CAC-8316-4378-9D13-5FB5A52A5DFD"
+    },
+    {
+      "class": "shapePath",
+      "id": "C69DF4DD-773B-4797-A401-C65C94F7EC12"
+    },
+    {
+      "class": "shapePath",
+      "id": "B327C0C3-1A86-428E-BF7B-F25BF36D5D72"
+    },
+    {
+      "class": "shapePath",
+      "id": "0FF60ECA-F66A-427F-B2D8-4BD2726FDBC5"
+    },
+    {
+      "class": "shapePath",
+      "id": "1B3B14BB-C20F-49F5-AFC7-310AB68BFC4D"
+    },
+    {
+      "class": "shapePath",
+      "id": "3E33F423-FF97-49B9-964B-C39A69543C79"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "903C6CD4-EB52-4809-B4D3-DCC7BD8BD241"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "15E216AD-5600-457B-8EDC-9BB8E4975BD9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7884B24-C7B7-4860-A0DD-F11DEBF02935"
+    },
+    {
+      "class": "shapePath",
+      "id": "46A3E5E9-3856-4EED-9BCC-D7A0F5796CB3"
+    },
+    {
+      "class": "shapePath",
+      "id": "78219B3C-5707-4D6D-A40F-A8D76882B2AD"
+    },
+    {
+      "class": "shapePath",
+      "id": "173CB88D-3725-4247-96AC-7DFA4C2E8D20"
+    },
+    {
+      "class": "shapePath",
+      "id": "CC9D6B8B-FA3F-4779-9F51-151EEAF80136"
+    }
+  ],
+  "name": "002-confetti",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.247563352826511,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

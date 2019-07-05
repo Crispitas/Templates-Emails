@@ -1,0 +1,64 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "92E5735C-0F02-4DAB-92B5-71FC612D6979",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C80B6B51-26A6-4BB9-8C36-B765C09CECAA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "37FE85A1-4824-40C2-B747-A9C511A4B690",
+    "height": 255,
+    "width": 384,
+    "x": 216,
+    "y": -40
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/ae22f97a5936f52dc97c854608cfd0c782ce8a01.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "soluciones_de_medios_de_pago_interno",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8E8FFB58-F79E-49EA-9692-069F9A6CFB24",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.289256198347108,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "EC14E58F-4C4C-4124-9D2A-60D3A04D8E3B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

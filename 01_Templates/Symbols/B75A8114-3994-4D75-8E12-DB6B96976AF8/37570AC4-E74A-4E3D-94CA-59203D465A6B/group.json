@@ -1,0 +1,115 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "37570AC4-E74A-4E3D-94CA-59203D465A6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA87F313-DC42-4E95-B08B-47FFC7B87661",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F40595E5-351B-4A53-9D42-BF656C35579C",
+    "height": 64,
+    "width": 64,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A1073853-F166-43CB-BB64-36B8F597A694"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B52BC135-D830-4504-9504-FEAC2A7DBAF0"
+    },
+    {
+      "class": "shapePath",
+      "id": "922F59CF-6B02-455A-AA74-168B016565B7"
+    },
+    {
+      "class": "shapePath",
+      "id": "A7E6AB8A-3EE4-49C9-99D1-1FE8B5DB8E91"
+    },
+    {
+      "class": "shapePath",
+      "id": "9DE2B25E-468B-4A96-AEED-4B2A406BE88F"
+    },
+    {
+      "class": "shapePath",
+      "id": "BD83BDF1-A4F4-4959-B6A2-1E7F0F74ED9F"
+    },
+    {
+      "class": "shapePath",
+      "id": "75E8D2F6-FA1B-413B-AF6F-37640418C985"
+    },
+    {
+      "class": "shapePath",
+      "id": "7ED5414D-7CC8-47B2-BF70-DDA5D8F99BB3"
+    },
+    {
+      "class": "shapePath",
+      "id": "1AB1DC59-28D3-4C25-A122-B1EF5E72C5AA"
+    },
+    {
+      "class": "shapePath",
+      "id": "72184596-7A32-4A98-8C24-134CF64B3C07"
+    },
+    {
+      "class": "shapePath",
+      "id": "311D6902-A69D-4C61-8AA1-D7E4AA1F9D30"
+    },
+    {
+      "class": "shapePath",
+      "id": "FA80CBED-BF60-4686-9731-C249CAD8E849"
+    },
+    {
+      "class": "shapePath",
+      "id": "7D6F90E2-E84C-4A69-A46C-DAA587661F72"
+    },
+    {
+      "class": "shapePath",
+      "id": "36649C24-DCD8-4619-BDC5-44898682357B"
+    }
+  ],
+  "name": "002-confetti",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "476C013A-2245-4CCA-B7CB-20A5E63807D7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.247563352826511,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "705395C5-8A37-4E41-9F6D-75110AED3AA3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

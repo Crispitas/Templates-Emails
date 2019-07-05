@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0EDD6ED9-F119-4C01-9C02-7292B92D3B9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2DD8F731-4F0D-4CC3-B022-E29B5F977F8B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD9997C3-84D7-40A6-A9F1-323E709BB9DB",
+    "height": 40,
+    "width": 392,
+    "x": 0,
+    "y": 214
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Element/Card-Table Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA115BE4-993A-4AB4-B0D3-2FC179B3212B",
+      "overrideName": "D4A1A9C0-592A-4FAE-890C-97EAC942A897_stringValue",
+      "value": "Tasa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF4A4AA6-74E9-4C3B-9D1C-905836A12527",
+      "overrideName": "273406C6-5CA9-4CF8-9B28-B575838853C4_stringValue",
+      "value": "16,06%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B95FE589-B947-4F34-809C-754F098CBA38",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0ACD3216-7649-4753-8DEC-C2092FC033BE",
+  "verticalSpacing": 0
+}

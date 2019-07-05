@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7F14245B-5BFB-449E-BAE3-DA2E98344601",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B5DE067-5B12-4E05-88BF-FB80C57B597A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9AD04E9B-2C64-4812-A027-52C9943F8021",
+    "height": 40,
+    "width": 392,
+    "x": 0,
+    "y": 134
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Element/Card-Table Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "39220B1D-896F-4CC0-9F8A-C59BF4F33AF6",
+      "overrideName": "D4A1A9C0-592A-4FAE-890C-97EAC942A897_stringValue",
+      "value": "Plazo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7BA6CFCA-2D18-45CE-A2C1-6B277C0DDDE7",
+      "overrideName": "273406C6-5CA9-4CF8-9B28-B575838853C4_stringValue",
+      "value": "48 meses"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "324D5B5C-96AA-43EE-A7A2-C434017CBE04",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0ACD3216-7649-4753-8DEC-C2092FC033BE",
+  "verticalSpacing": 0
+}
