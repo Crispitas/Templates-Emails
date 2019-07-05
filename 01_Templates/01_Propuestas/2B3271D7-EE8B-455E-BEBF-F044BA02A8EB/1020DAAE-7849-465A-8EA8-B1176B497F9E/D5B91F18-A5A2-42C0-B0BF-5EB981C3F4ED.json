@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3607843137254902,
-            "green": 0.1490196078431373,
-            "red": 0.05882352941176471
+            "blue": 0.02745098039215686,
+            "green": 0.02745098039215686,
+            "red": 0.02745098039215686
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Arial-BoldMT",
+              "name": "ArialMT",
               "size": 20
             }
           },
@@ -61,7 +61,7 @@
     "x": 24,
     "y": 24
   },
-  "glyphBounds": "{{0, 5}, {225, 20}}",
+  "glyphBounds": "{{0, 5}, {209, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -89,14 +89,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3607843137254902,
-          "green": 0.1490196078431373,
-          "red": 0.05882352941176471
+          "blue": 0.02745098039215686,
+          "green": 0.02745098039215686,
+          "red": 0.02745098039215686
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Arial-BoldMT",
+            "name": "ArialMT",
             "size": 20
           }
         },
